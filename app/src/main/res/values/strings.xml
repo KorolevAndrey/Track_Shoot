@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TrackShoot</string>
+    <string name="label_road_submission">Road View Submission</string>
+    <string name="status_running">Running</string>
+    <string name="status_not_running">Not Running</string>
+    <string name="label_app_id_primary">Application ID</string>
+    <string name="label_app_id_secondary">App ID:&#160;</string>
+    <string name="label_submission_rate">Photo submission rate</string>
+    <string name="label_200">Every 200 m</string>
+    <string name="label_100">Every 100 m</string>
+    <string name="label_50">Every 50 m</string>
+    <string name="label_submit_every">Submit every&#160;</string>
+    <string name="sign_meters">m</string>
+    <string name="sign_meters_space">&#160;m</string>
+    <string name="button_start">START</string>
+    <string name="button_stop">STOP</string>
+    <string name="message_choose_distance">Cannot start. Please choose the distance</string>
+    <string name="message_overdraw">Permit drawing over other apps</string>
+    <string name="date_format">"yyyy-MM-dd&#160;HH:mm:ss"</string>
+    <string name="json_string_app_id">app_id</string>
+    <string name="json_string_rate">rate</string>
+    <string name="json_string_gps">gps</string>
+    <string name="json_string_datetime">datetime</string>
+    <string name="json_string_orientation">orientation</string>
+</resources>
